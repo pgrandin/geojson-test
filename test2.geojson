@@ -58,22 +58,6 @@
           [
             -122.26983199925787,
             37.81646134681297
-          ],
-          [
-            -122.26979602639365,
-            37.81666027116812
-          ],
-          [
-            -122.26967012136882,
-            37.81712916217012
-          ],
-          [
-            -122.2688607319235,
-            37.82080914267651
-          ],
-          [
-            -122.26472385253626,
-            37.82331682350703
           ]
         ]
       }
@@ -91,12 +75,7 @@
     {      "type": "Feature",      "properties": { "Instruction": "Turn right in 900 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2701197821717756, 37.8193385933242894 ] }    },
     {      "type": "Feature",      "properties": { "Instruction": "Turn left in 300 meters into the street 27th Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2710370902098020, 37.8168449861608025 ] }    },
     {      "type": "Feature",      "properties": { "Instruction": "Turn left in 125 meters into the street Northgate Avenue", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2698319992578746, 37.8164613468129716 ] }    },
-    {      "type": "Feature",      "properties": { "Instruction": "Turn easily right in 20 meters into the ramp", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2697960263936494, 37.8166602711681179 ] }    },
-    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 50 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2696701213688186, 37.8171291621701187 ] }    },
-    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 400 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2688607319234961, 37.8208091426765094 ] }    },
-    {      "type": "Feature",      "properties": { "Instruction": "You have reached your destination in 600 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2647238525362638, 37.8233168235070281 ] }    },
-    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 500 meters into the I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2938708657841005, 37.8293263860142446 ] }    }
-
+    {      "type": "Feature",      "properties": { "Instruction": "Turn easily right in 20 meters into the ramp", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2697960263936494, 37.8166602711681179 ] }    }
     
   ]
 }
