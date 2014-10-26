@@ -4,8 +4,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Turn right in 50 meters into the street Shellmound Street"
+                "name": "Test route"
             },
+            "style":{
+        //all SVG styles allowed
+        "fill":"red",
+        "stroke-width":"3",
+        "fill-opacity":0.6
+    }
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -81,7 +87,7 @@
       "type": "Feature",
                   "properties": {
 		                  "Instruction": "Turn right in 50 meters into the street Shellmound Street"
-				              },
+		},
       "geometry": {
         "type": "Point",
         "coordinates": [
