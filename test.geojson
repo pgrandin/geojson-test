@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Test route",
+        "name": "Test route"
     
       },
       "geometry": {
