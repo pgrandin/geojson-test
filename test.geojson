@@ -97,3 +97,4 @@
     {      "type": "Feature",      "properties": { "Instruction": "Turn left in 500 meters into the I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2938708657841005, 37.8293263860142446 ] }    }
   ]
 }
+
