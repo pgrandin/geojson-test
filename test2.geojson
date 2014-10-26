@@ -78,6 +78,10 @@
         ]
       }
     },
+   {      "type": "Feature",      "properties": { "Instruction": "Turn right in 50 meters into the street Shellmound Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2937179811110866, 37.8439930619099130 ] }    },
+    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 500 meters into the street Shellmound Way", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2934481846293124, 37.8393554404405563 ] }    },
+    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 125 meters into the street Christie Avenue", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2949230720629998, 37.8392631111721158 ] }    },
+    
     {
       "type": "Feature",
       "properties": {
