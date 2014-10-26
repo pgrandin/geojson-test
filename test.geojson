@@ -5,8 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Test route",
-        "stroke": "red",
-        "stroke-width": "5px"       
+    
       },
       "geometry": {
         "type": "LineString",
