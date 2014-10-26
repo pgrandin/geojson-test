@@ -4,7 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Test route"
+                      "name": "Test route",
+        "stroke": "red",
+        "stroke-width": "5px" 
             },
             "geometry": {
                 "type": "LineString",
@@ -73,13 +75,7 @@
                         -122.26472385253626,
                         37.82331682350703
                     ]
-                ],
-        "style":{
-        //all SVG styles allowed
-        "fill":"red",
-        "stroke-width":"3",
-        "fill-opacity":0.6
-    },
+                ]
             }
         }
     ,
