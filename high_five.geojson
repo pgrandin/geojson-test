@@ -29,22 +29,21 @@
 [ -122.2688607319234961, 37.8208091426765094 ],
 [ -122.2647238525362638, 37.8233168235070281 ] ]}
  },
-    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 50 meters into the Shellmound Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2937179811110866, 37.8439930619099130 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 500 meters into the street Shellmound Way", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2934481846293124, 37.8393554404405563 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 125 meters into the Christie Avenue", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2949230720629998, 37.8392631111721158 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 80 meters into the Powell Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2947072348775919, 37.8385173705367208 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn easily right in 200 meters into the street Frontage Road", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2968116474354474, 37.8381338438455685 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 200 meters into the ramp", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2977829147698259, 37.8396182231104490 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "merge", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2966137966821520, 37.8376153694078994 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "keep right at the  interchange I 80;I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2960292376382938, 37.8362587957613954 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "keep left at the  interchange I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2948151534702959, 37.8335739848470212 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "keep left at the  interchange I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2938708657841005, 37.8293263860142446 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "right exit 19C (null)", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2736631092990933, 37.8254763443810305 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 900 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2701197821717756, 37.8193314891500449 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 300 meters into the 27th Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2710370902098020, 37.8168449861608025 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 125 meters into the Northgate Avenue", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2698319992578746, 37.8164613468129716 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn easily left in 80 meters into the ramp", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2696701213688186, 37.8171291621701187 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 400 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2688607319234961, 37.8208091426765094 ] }    }
-,    {      "type": "Feature",      "properties": { "Instruction": "You have reached your destination in 600 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2647238525362638, 37.8233168235070281 ] }    }
-  ]
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 50 meters into the Shellmound Street", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2937179811110866, 37.8439930619099130 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 500 meters into the street Shellmound Way", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2934481846293124, 37.8393554404405563 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn left in 125 meters into the Christie Avenue", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2949230720629998, 37.8392631111721158 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 80 meters into the Powell Street", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2947072348775919, 37.8385173705367208 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn easily right in 200 meters into the street Frontage Road", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2968116474354474, 37.8381338438455685 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 200 meters into the ramp", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2977829147698259, 37.8396182231104490 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Merge onto I 80;I 580", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2966137966821520, 37.8376153694078994 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Keep right at the interchange I 80;I 580", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2960292376382938, 37.8362587957613954 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Keep left at the interchange I 580", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2948151534702959, 37.8335739848470212 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Keep left at the interchange I 580", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2938708657841005, 37.8293263860142446 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Take the exit 19C on your right towards I-980 West", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2736631092990933, 37.8254763443810305 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 900 meters", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2701197821717756, 37.8193314891500449 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn left in 300 meters into the 27th Street", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2710370902098020, 37.8168449861608025 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn left in 125 meters into the Northgate Avenue", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2698319992578746, 37.8164613468129716 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn easily left in 80 meters into the ramp", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2696701213688186, 37.8171291621701187 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 400 meters", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2688607319234961, 37.8208091426765094 ] } },
+    { "type": "Feature", "properties": { "Instruction": "You have reached your destination in 600 meters", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2647238525362638, 37.8233168235070281 ] } }  ]
  }
