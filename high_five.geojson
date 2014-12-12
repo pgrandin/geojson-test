@@ -1,84 +1,50 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Turn left in 125 meters into the Shellmound Street"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -122.29458132985275,
-                        37.84616618081489
-                    ],
-                    [
-                        -122.29344818462931,
-                        37.839355440440556
-                    ],
-                    [
-                        -122.294923072063,
-                        37.839263111172116
-                    ],
-                    [
-                        -122.29470723487759,
-                        37.83851737053672
-                    ],
-                    [
-                        -122.29681164743545,
-                        37.83813384384557
-                    ],
-                    [
-                        -122.29778291476983,
-                        37.83961822311045
-                    ],
-                    [
-                        -122.29661379668215,
-                        37.8376153694079
-                    ],
-                    [
-                        -122.2960292376383,
-                        37.836258795761395
-                    ],
-                    [
-                        -122.2948151534703,
-                        37.83357398484702
-                    ],
-                    [
-                        -122.2938708657841,
-                        37.829326386014245
-                    ],
-                    [
-                        -122.23849064129162,
-                        37.80684129367208
-                    ],
-                    [
-                        -122.2337781960766,
-                        37.80397777140841
-                    ],
-                    [
-                        -122.20662767679391,
-                        37.822094961337726
-                    ],
-                    [
-                        -122.20801263206704,
-                        37.823103709468796
-                    ],
-                    [
-                        -122.21054871899572,
-                        37.82622221684274
-                    ],
-                    [
-                        -122.20956845844525,
-                        37.826719460962366
-                    ],
-                    [
-                        -122.20949651271678,
-                        37.826634219351234
-                    ]
-                ]
-            }
-        }
-    ]
-}
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navit route export",
+        "stroke": "red",
+        "stroke-width": "5px"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+[ -122.2945813298527469, 37.8461661808148904 ],
+[ -122.2934481846293124, 37.8393554404405563 ],
+[ -122.2949230720629998, 37.8392631111721158 ],
+[ -122.2947072348775919, 37.8385173705367208 ],
+[ -122.2968116474354474, 37.8381338438455685 ],
+[ -122.2977829147698259, 37.8396182231104490 ],
+[ -122.2966137966821520, 37.8376153694078994 ],
+[ -122.2960292376382938, 37.8362587957613954 ],
+[ -122.2948151534702959, 37.8335739848470212 ],
+[ -122.2938708657841005, 37.8293263860142446 ],
+[ -122.2384906412916195, 37.8068412936720790 ],
+[ -122.2337781960765994, 37.8039777714084124 ],
+[ -122.2066276767939144, 37.8220949613377257 ],
+[ -122.2080126320670388, 37.8231037094687963 ],
+[ -122.2105487189957245, 37.8262222168427371 ],
+[ -122.2095684584452471, 37.8267194609623658 ],
+[ -122.2094965127167825, 37.8266342193512344 ] ]}
+ },
+    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 125 meters into the Shellmound Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2945813298527469, 37.8461661808148904 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 800 meters into the Shellmound Way", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2934481846293124, 37.8393554404405563 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 125 meters into the Christie Avenue", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2949230720629998, 37.8392631111721158 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 80 meters into the Powell Street", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2947072348775919, 37.8385173705367208 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn easily right in 200 meters into the street Frontage Road", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2968116474354474, 37.8381338438455685 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 200 meters into the ramp", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2977829147698259, 37.8396182231104490 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "merge", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2966137966821520, 37.8376153694078994 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 150 meters into the Eastshore Freeway I 80;I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2960292376382938, 37.8362587957613954 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Continue straight in 300 meters into the I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2948151534702959, 37.8335739848470212 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 500 meters into the I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2938708657841005, 37.8293263860142446 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "right exit (null) I 580", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2384906412916195, 37.8068412936720790 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 500 meters into the Park Boulevard", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2337781960765994, 37.8039777714084124 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn left in 3.4 kilometers into the Mountain Boulevard", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2066276767939144, 37.8220949613377257 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn easily right in 175 meters into the Mountain Boulevard", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2080126320670388, 37.8231037094687963 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 400 meters into the La Salle Avenue", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2105487189957245, 37.8262222168427371 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "Turn right in 100 meters into the Mountain Boulevard", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2095684584452471, 37.8267194609623658 ] }    }
+,    {      "type": "Feature",      "properties": { "Instruction": "You have reached your destination in 10 meters", "name": "" },      "geometry": { "type": "Point", "coordinates": [ -122.2094965127167825, 37.8266342193512344 ] }    }
+  ]
+ }
