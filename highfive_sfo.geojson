@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navit route export",
+        "stroke": "red",
+        "stroke-width": "5px"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+[ -122.4017175127658561, 37.6276471938543864 ],
+[ -122.4021581803527852, 37.6319277431872194 ],
+[ -122.4047662130099354, 37.6383089363282153 ],
+[ -122.4048831248186957, 37.7643815762559854 ],
+[ -122.2938978454322694, 37.8286515777373182 ],
+[ -122.2944014655315783, 37.8342132344033644 ],
+[ -122.2961281630149273, 37.8380770249069087 ],
+[ -122.2894372102669109, 37.8394122583944466 ] ]}
+ },
+    { "type": "Feature", "properties": { "Instruction": "in 900 meters keep right ", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.4017175127658561, 37.6276471938543864 ] } },
+    { "type": "Feature", "properties": { "Instruction": "in 500 meters keep left ", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.4021581803527852, 37.6319277431872194 ] } },
+    { "type": "Feature", "properties": { "Instruction": "merge left into the street Bayshore Freeway US 101 ", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.4047662130099354, 37.6383089363282153 ] } },
+    { "type": "Feature", "properties": { "Instruction": "in 15 kilometers keep right  towards I-80", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.4048831248186957, 37.7643815762559854 ] } },
+    { "type": "Feature", "properties": { "Instruction": "in 13 kilometers keep right ", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2938978454322694, 37.8286515777373182 ] } },
+    { "type": "Feature", "properties": { "Instruction": "in 600 meters right exit 9  towards Powell Street", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2944014655315783, 37.8342132344033644 ] } },
+    { "type": "Feature", "properties": { "Instruction": "Turn right in 450 metersinto Powell Street ", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2961281630149273, 37.8380770249069087 ] } },
+    { "type": "Feature", "properties": { "Instruction": "You have reached your destination in 600 meters ", "name": "" }, "geometry": { "type": "Point", "coordinates": [ -122.2894372102669109, 37.8394122583944466 ] } }  ]
+ }
