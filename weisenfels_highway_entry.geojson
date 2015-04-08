@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navit route export",
+        "stroke": "red",
+        "stroke-width": "5px"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+[ 11.9110200435103302, 51.3707206469664754 ],
+[ 11.9137090151120280, 51.3655720674147744 ] ]}
+ },
+    { "type": "Feature", "properties": { "Instruction": "Turn left in 800 meters into the ramp", "name": "" }, "geometry": { "type": "Point", "coordinates": [ 11.9110200435103302, 51.3707206469664754 ] } },
+    { "type": "Feature", "properties": { "Instruction": "You have reached your destination in 700 meters", "name": "" }, "geometry": { "type": "Point", "coordinates": [ 11.9137090151120280, 51.3655720674147744 ] } }  ]
+ }
